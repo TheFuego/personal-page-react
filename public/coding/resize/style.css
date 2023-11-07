@@ -1,0 +1,85 @@
+#matches input{
+    width: 1.5rem
+}
+
+.matchday {
+    flex-basis: 28%;
+    flex-shrink: 0;
+    flex-grow: 1;
+    padding: 2vw;
+}
+
+#matches .matchday:nth-child(odd){
+    background-color: rgba(106, 145, 189, 0.425);
+}
+
+#matches {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#table td {
+    width: 2.2rem;
+    padding: 3px;
+    text-align: center;
+}
+
+#table td:nth-child(2) {
+    width: 15vw;
+    padding-left: 1.2rem;
+    text-align: left;
+}
+
+#table td:nth-child(even) {
+    background-color: rgba(91, 125, 163, 0.247);;
+}
+#table tr:nth-child(odd) {
+    background-color: rgba(91, 125, 163, 0.405);;
+}
+
+#table tr:nth-child(2) {
+    background-color: rgba(28, 141, 43, 0.525);;
+}
+
+#table tr:nth-child(3) {
+    background-color: rgba(28, 141, 43, 0.252);;
+}
+
+#table tr:nth-child(4) {
+    background-color: rgba(201, 167, 19, 0.525);;
+}
+
+#table tr:nth-child(5) {
+    background-color: rgba(201, 167, 19, 0.252);;
+}
+
+#table tr:nth-last-child(1) {
+    background-color: rgba(173, 22, 22, 0.692);;
+}
+
+#table tr:nth-last-child(2) {
+    background-color: rgba(189, 37, 37, 0.527);;
+}
+
+#team{
+    background-color: rgba(106, 145, 189, 0.3);
+    display: flex;
+    flex-direction: column;
+    width: 36vw;
+}
+
+#team table {
+    border-collapse: collapse
+}
+
+#team table td{
+    padding: 4px;
+}
+
+#team table tr:nth-child(even) td:nth-child(2){
+    background-color: rgba(91, 125, 163, 0.247);;
+}
+
+#team table tr:nth-child(odd) td:nth-child(odd){
+    background-color: rgba(91, 125, 163, 0.247);;
+}

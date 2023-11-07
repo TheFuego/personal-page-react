@@ -1,0 +1,118 @@
+html{
+    background-color: #1a75ff;
+    color: whitesmoke;
+    text-shadow: 4px 4px #000000;
+    font-family: Helvetica, sans-serif;
+    font-size: 5vw
+}
+
+.numbers{
+    display: flex;
+    justify-content: center;
+}
+.operators{
+    display: flex;
+    justify-content: center;
+}
+.target-num{
+    display: flex;
+    justify-content: center;
+}
+
+.audio{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.stop-end{
+    position: fixed;
+    top: 9px;
+    margin-left: 6vw;
+}
+.timer{
+    position: fixed;
+    top: 9px;
+    margin-left: 84vw;
+}
+
+#time, .stop, .target-nums, .one, .operator, .parentheses, .delete {
+    background-color: #002db3; 
+    color: white;
+    padding: 1vw 1vw 1vw 1vw;
+    text-align: center;
+    border-radius: 12px;
+    border: 5px solid white;
+    display: inline-block;
+    font-family: Helvetica, sans-serif;
+    text-shadow: 4px 4px #000000;
+    font-size: 4vw;
+    margin: 5px;
+    width: 7vw;
+    height: 7vw;
+}
+
+.two {
+    background-color: #002db3; 
+    color: white;
+    padding: 1vw 1vw;
+    text-align: center;
+    border-radius: 12px;
+    border: 5px solid white;
+    display: inline-block;
+    font-family: Helvetica, sans-serif;
+    text-shadow: 4px 4px #000000;
+    font-size: 4vw;
+    margin: 5px;
+    width: 9vw;
+    height: 7vw;
+}
+
+.three {
+    background-color: #002db3; 
+    color: white;
+    padding: 1vw 1vw;
+    text-align: center;
+    border-radius: 12px;
+    border: 5px solid white;
+    display: inline-block;
+    font-family: Helvetica, sans-serif;
+    font-size: 4vw;
+    text-shadow: 4px 4px #000000;
+    margin: 5px;
+    width: 11vw;
+    height: 7vw;
+    transition: all 0.2s;
+}
+
+.one-digit:hover, .operator:hover, .parentheses:hover, .delete:hover, .stop:hover{
+    background-color: #5774cc ;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.used{
+    background-color: #5774cc ;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.bottom {
+    justify-content: center;
+    background-color: #002db3; 
+    color: white;
+    padding: 15px 32px;
+    border-radius: 12px;
+    border: 5px solid white;
+    font-family: Helvetica, sans-serif;
+    font-size: 5vw;
+    text-shadow: 4px 4px #000000;
+    margin-left: auto; margin-right: auto; margin-top: 9px;
+    width: 80vw;
+    height: 36vh;
+}
+
+#sum {
+    text-align: center;
+    position: relative;
+    top: 14vh;
+}

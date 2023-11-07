@@ -1,0 +1,27 @@
+.Coding--Icon img{
+    width: 10vw;
+    margin: 2vw;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.Coding--Icon img:hover{
+    transform: scale(1.1);
+}
+
+.Icons {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Coding {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#slagalica {
+    mix-blend-mode: multiply;
+}

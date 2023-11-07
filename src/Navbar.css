@@ -1,0 +1,31 @@
+.Navbar button {
+    font-size: 1.4rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: var(--white);
+    height: 4rem;
+    padding: 1rem;
+    margin: 2px;
+    border: 0 none;
+    cursor: pointer;
+    
+    transition: all 0.2s;
+}
+
+.Navbar button:hover {
+    background-color: black;
+    color: var(--white);
+    cursor: pointer;
+
+    transition: all 0.2s;
+}
+
+.Navbar {
+    position: fixed;
+    top: 0;
+    background-color: var(--white);
+    z-index: 2;
+    padding-left: 1rem;
+    width: 100vw;
+}

@@ -1,0 +1,58 @@
+* {
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#word {
+    letter-spacing: 1rem;
+}
+
+.button {
+    font-size: 2rem;
+    width: 3rem;
+    background-color: white;
+    margin: 0.4rem;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #dddddd;
+    box-shadow: 0 5px #666;
+}
+
+.button:active {
+    box-shadow: 0 1px #666;
+    transform: translateY(4px);
+}
+
+#main {
+    font-size: 1.2rem;
+}
+
+#buttons {
+    width: 58vw;
+}
+
+#image video, img{
+    height: 300px;
+}
+
+#image video{
+    margin-left: -167px;
+}
+
+#image img{
+    margin-left: -150px;
+}
+
+#image {
+    max-width: 198px;
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 600px){
+    #buttons {
+        width: 98vw;
+    }
+}

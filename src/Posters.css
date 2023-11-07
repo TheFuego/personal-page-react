@@ -1,0 +1,71 @@
+.Active-Poster {
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+}
+
+.Active-Poster-img {
+    max-width: 100%;
+    height: 75vh;
+}
+
+.Active-Poster-bg {
+    width: 100%;
+    height: 75vh;  
+    object-fit: cover;
+    filter: blur(20px); 
+    position: relative;
+}
+
+@keyframes slide {
+    from { transform: translate(-10vh); }
+    to {  transform: translate(0vh); }
+}
+
+.Thumbnail {
+    height: 10vh;
+    width: 10vh;
+    object-fit: cover;
+    transition: all 0.2s;
+}
+
+.Thumbnail :hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.Thumbnails {
+    display: flex;
+    margin: 2rem;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Thumbnails button {
+    font-weight: bold;
+    font-size: 3vh;
+    width: 6vh;
+    height: 6vh;
+    text-align: center;
+    border-radius: 100px;
+    border: 2px solid black;
+    background-color: var(--white);
+    cursor: pointer;
+}
+
+.Thumbnails button:hover {
+    font-weight: bold;
+    border-color: rgb(150, 150, 150);
+    color: rgb(150, 150, 150);
+    border-width: 3px;
+}
+
+.Thumbnails button:active {
+    font-weight: bold;
+    border-color: black;
+    color: black;
+    border-width: 3px;
+}

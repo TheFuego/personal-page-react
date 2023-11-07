@@ -1,0 +1,79 @@
+:root {
+  --white: rgb(247, 247, 247)
+}
+
+body {
+  background-color: var(--white);
+  min-height: 100vh;
+}
+
+.App {
+  position: relative;
+  top: 4rem;
+}
+
+.Card img {
+  height: 18vw;
+  margin: 0.2vw 0.2vw;
+}
+
+.Brand-Cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 60%;
+  
+  transition: all 0.2s;
+}
+
+.Brand-Cards img{
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.Brand-Cards img:hover{
+  transform: scale(1.05);
+  transition: all 0.2s;
+}
+
+.Brand-Text {
+  width: 40%;
+  padding: 2vw;
+
+  background: linear-gradient(90deg, rgba(214,224,235,0) 0%, var(--white) 35%);
+}
+
+.Brand-Identity, .Brand-Page {
+  display: flex;
+  flex-direction: row;
+  font-size: 1.4rem;
+}
+
+.Text-Body {
+  position: fixed;
+  margin-right: 2rem;
+  padding: 1rem;
+}
+
+.Brand-Examples {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 45%;
+  
+  transition: all 0.2s;
+}
+
+.Example-true {
+  width: 50%;
+  margin: 0;
+}
+
+.Example-false {
+  width: 100%;
+  margin: 0;
+}
+
+.Brand-Page-Text {
+  padding: 2rem 3rem;
+}

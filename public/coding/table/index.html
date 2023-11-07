@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Table</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <form class="form">
+      <input type="text" id="name" name="name">
+      <input type="number" id="num" name="num">
+    </form>
+
+    <button id="submit">Add Item</button>
+
+    <button id="save">Save List</button>
+
+    
+    <div class="main">
+      <table class="table" cellspacing="0" cellpadding="0">
+        <tr id="header">
+          <td id="nameSort">Name </td>
+          <td id="numSort" min="0" max="99">Number</td>
+        </tr>
+      </table>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+
+</html>

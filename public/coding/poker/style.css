@@ -1,0 +1,11 @@
+html { 
+    font-family: "Arial Unicode MS"; 
+}
+
+.red { 
+    color: red;
+}
+
+.shared, .my, .one, .two, .three, .name {
+    display: inline-block;
+}

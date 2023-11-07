@@ -1,0 +1,236 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "car-dusan",
+            "header": "Car Dušan Pivo",
+            "text": "A concept for light lager beer brand based on the likeness of the 14th century Serbian Tsar, Stephen Dušan. Inspired by Serbian medieval imagery and symbols of the Serbian Empire.",
+            "examples": [
+                {
+                    "id": 1, "isQuartet": false, 
+                    "header": "Car Dušan",
+                    "text": "The main icon of the brand is the reinterpreted face of the famous medieval Serbian Emperor Dušan. As there are no credible illustrations except for a few church frescoes, the face is reinterpreted liberally, in a sturdy way, with a lowered brow and almost a brash expression, reinforcing the Emperors nickname and most recognizable trait, <i>might</i>."
+                }, 
+                {
+                    "id": 2, "isQuartet": false, 
+                    "header": "Custom font",
+                    "text": "Inspired by medieval cyrillic manuscripts, this custom font brings a modern and sharp twist to the cyrillic scripts of old. The font is made in such a way to be highly adaptable to the latin alphabet if needed."
+                },
+                {
+                    "id": 3, "isQuartet": false, 
+                    "header": "Bottle",
+                    "text": "The bottle is a European standard .475 long neck, featuring a long, narrow neck to allow for easy grip and shorter, flatter shoulders. This allows for a shorter transition between neck and body. The branding reflects on the bottle through and through, as it is tinted imperial maroon, with a classic-beer-label-inspired label sticker."
+                },
+                {
+                    "id": 4, "isQuartet": false, 
+                    "header": "Bottlecap",
+                    "text": "Colored maroon, this bottlecap also contains a <i>heraldic</i> symbol of the medieval Serbian imperial crown. The crown, traditionally on a head of an emperor, symbolically <i>crowns</i> this beer."
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name" : "dijamant",
+            "header": "Dijamant",
+            "text": "A rebrand concept for a Serbian edible oil and mayonnaise manufacturing company <i>Dijamant</i>. The company's name <i>Dijamant</i>, meaning <i>diamond</i> was a major source of inspiration.",
+            "examples": [
+                {
+                    "id": 1, "isQuartet": false, 
+                    "header": "Modernization",
+                    "text": "The main icon of the brand is the reinterpreted face of the famous medieval Serbian Emperor Dušan. As there are no credible illustrations except for a few church frescoes, the face is reinterpreted liberally, in a sturdy way, with a lowered brow and almost a brash expression, reinforcing the Emperors nickname and most recognizable trait, <i>might</i>."
+                }, 
+                {
+                    "id": 2, "isQuartet": false, 
+                    "header": "Icon",
+                    "text": "Inspired by medieval cyrillic manuscripts, this custom font brings a modern and sharp twist to the cyrillic scripts of old. The font is made in such a way to be highly adaptable to the latin alphabet if needed."
+                },
+                {
+                    "id": 3, "isQuartet": false, 
+                    "header": "Bottles",
+                    "text": "The bottle is a European standard .475 long neck, featuring a long, narrow neck to allow for easy grip and shorter, flatter shoulders. This allows for a shorter transition between neck and body. The branding reflects on the bottle through and through, as it is tinted imperial maroon, with a classic-beer-label-inspired label sticker."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name" : "swadowed",
+            "header": "Swadowed",
+            "text": "A concept for an ice cream brand. Cold colors are meant to associate to a feeling of opening a cold freezer to reach for an ice cream pint, accentuated by saturated and bright colors. The name is a Serbian play on words.",
+            "examples": [
+                {
+                    "id": 1, "isQuartet": false, 
+                    "header": "Name & Colorway",
+                    "text": "The name <i>Swadowed</i> comes from a silly and often childlike pronounciation of the serbian word for ice cream, <i>sladoled</i>. It reinforces the youthful image of the brand and the childlike joy in eating ice cream.<br><br> Cold colors are meant to associate to a feeling of opening a cold freezer to reach for an ice cream pint, accentuated by saturated and bright colors."
+                }, 
+                {
+                    "id": 2, "isQuartet": false, 
+                    "header": "Icon",
+                    "text": "The icon contains the beggining letters of the two words that together form the name of the brand, around which other elements construct an abstracted icon of an ice cream cone."
+                },
+                {
+                    "id": 3, "isQuartet": false, 
+                    "header": "Pattern",
+                    "text": "The pattern is constructed out of the elements of the logo. The elements of the pattern are scattered in no organized manner as to reinforce the lively and youtful theme of the brand."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name" : "lug",
+            "header": "OFK Lug",
+            "text": "A rebrand for a small town lower league team in Veliki Mokri Lug, Serbia. The team founded in 2020 is proud to bring something new, fresh and different to the little leagues.",
+            "examples": [
+                {
+                    "id": 1, "isQuartet": false, 
+                    "header": "OFK Lug",
+                    "text": "<i>Omladinski fudbalski klub Lug</i> (lit. Youth Football Club Lug) is a small town, lower league team in Veliki Mokri Lug, Serbia. The team founded in 2020 is proud to bring youthful and fresh energy to the little leagues."
+                }, 
+                {
+                    "id": 2, "isQuartet": false, 
+                    "header": "Icon",
+                    "text": "The mascot of the club is a fox, and that is what the icon is based of. An abstraction of the said critter, it was a challenge to make it recognizable even in small resolutions, while not losing on desired simplicity."
+                },
+                {
+                    "id": 3, "isQuartet": false, 
+                    "header": "Jersey",
+                    "text": "White, Red, Blue. These are, in order, the most common colors that average lower league teams are brandishing. This young club, with an already passionate fanbase tries to bring something different to the table and does it achieve that goal with a playful, vivid and eyecatching pink."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name" : "sindjelic",
+            "header": "Sinđelić Niš",
+            "text": "Founded in 1918, named after a Serbian revolution hero, <i>Sinđelić</i> is the oldest football club in Niš, the <i>Heart of the Balkans</i>. This design concept aims to refresh the club's imagery and bring Niš's oldest club to the 21st century.",
+            "examples": [
+                {
+                    "id": 1, "isQuartet": true, 
+                    "header": "Niš Fortress",
+                    "text": "<i>Niš Fortress</i> is a fortress in the city of Niš, Serbia. It is a complex and important cultural and historical monument. It rises on the right bank of the Nišava River, overlooking the area inhabited for longer than two millennia. It was protected by law in May 1948 as it was declared a cultural site of great significance. The current condition of the fortress lists it as one of the best preserved fortifications of this kind in Serbia as well as on the Balkan Peninsula."
+                }, 
+                {
+                    "id": 2, "isQuartet": true, 
+                    "header": "Čegar",
+                    "text": "Čegar is a location in Serbia, near the city of Niš, where the Battle of Čegar Hill took place. Today's monument in the shape of a tower - a symbol of the soldiers' fortification - was erected for the fiftieth anniversary of the liberation of Niš from the Turks, on June 1, 1927. In 1938 a bronze bust of Stevan Sinđelić was positioned in the semicircular niche of the monument. It is the symbol of the city municipality of Pantelej, the home of FK Sinđelić and is featured on the current crest of the club."
+                },
+                {
+                    "id": 3, "isQuartet": true, 
+                    "header": "Spomenik oslobodiocima",
+                    "text": "The common raven (Corvus corax), also known as the western raven or northern raven when discussing the raven at the subspecies level, is a large all-black passerine bird.Because of its black plumage, croaking call, and diet of carrion, the raven is often associated with loss and ill omen, in most cultures, the raven was and still is, considered as the bird of death, which is a fitting symbol for the club who's supporters call themselves <i>the Gravediggers</i> and pride themselves on their black colors and morbid and counterculture symbols."
+                },
+                {
+                    "id": 4, "isQuartet": true, 
+                    "header": "Bubanj",
+                    "text": "<i>Memorial Park Bubanj</i> is a World War II memorial complex built to commemorate the shooting and execution of more than 10,000 citizens of Niš and people from Serbia and other parts of the country, but according to some data, over 12,000 people, and it is located in Palilula municipality of Niš, Serbia."
+                },
+                {
+                    "id": 5, "isQuartet": false, 
+                    "header": "Stevan Sinđelić",
+                    "text": "Stevan Sinđelić was a Serbian revolutionary commander, who fought during the First Serbian Uprising against Ottoman rule. He fought in many battles and skirmishes against Ottoman foot-soldiers, though he is mostlz remembered for his actions during the Battle of Čegar Hill near Niš in 1809, in which he and hus brigade found themselves surrounded by the Ottomans. Encircled and without much chance of survival, Sinđelić ignited the gunpowder kegs in the powder cave, creating an enormous explosion that killed him, along with all of the Serbian and Ottoman soldiers in his trench."
+                },
+                {
+                    "id": 6, "isQuartet": false, 
+                    "header": "Jersey & Icon",
+                    "text": "The origin of the black and white colors for jerseys is unknown, but it was so for well over a century and this rebrand aims to keep it fully monochromatic. The design prominently features geometrical minimalist representations of symbols of the <i>Imperial city</i>.<br><br> The icon depicts the stylized head of the great revolutionary, not unlike the ones seen on the emblems of Olympiacos or Ajax, of which it draws most of it's inspiration. Geometrical stylization still puts a unique twist on the concept and strives to not be unoriginal."
+                },
+                {
+                    "id": 7, "isQuartet": false, 
+                    "header": "Niš basketball",
+                    "text": "Basketball Club Sinđelić was only founded in 2009 as Niš wasn't historically a big basketball city, and was rebranded as <i>Konstantin</i> in 2013. This concept revives the familiar identity of the club which affirmated a fair share of pro players in recent years for people who've shown that they can consistently pack the arena when there's a big match in town."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name" : "vranje",
+            "header": "Dinamo Vranje",
+            "text": "FK Dinamo Vranje is a football club founded in 1947, based in Vranje, Serbia. The rebrand incorporates the city's iconic yellow flowers and it's historic <i>White Bridge<i/>.",
+            "examples": [
+                {
+                    "id": 1, "isQuartet": false, 
+                    "header": "Sticking to the roots",
+                    "text": "The new badge incorporates the city's iconic yellow flowers and it's historic <i>White Bridge<i/>, while also paying homage to the original badge by using the same iconic shape of the shield."
+                }, 
+                {
+                    "id": 2, "isQuartet": false, 
+                    "header": "Yellow flowers of Vranje",
+                    "text": "The yellow flowers of Vranje, a charming town in Serbia, are a picturesque sight that captures the essence of springtime in this region. These vibrant blossoms, known for their radiant yellow petals, adorn the landscapes with a burst of color and vitality. Whether they grace the neatly manicured gardens or sway gracefully in the meadows, the yellow flowers of Vranje create a cheerful and inviting atmosphere. Their beauty not only adds a touch of sunshine to the environment but also symbolizes the warmth and hospitality of the local community, welcoming visitors to explore the town's rich cultural heritage and scenic surroundings."
+                },
+                {
+                    "id": 3, "isQuartet": false, 
+                    "header": "White Bridge",
+                    "text": "White Bridge (Serbian: <i>Бели мост</i>) or <i>Bridge of Love</i>, is a bridge in Vranje, over the Vranje river, in southeastern Serbia. It is in the old quarters of the city, in the <i>Devet Jugovića Street</i>. It was constructed with white stone and dates from 1844, during the Ottoman administration, and is one of the main symbols of Vranje. The bridge is also featured on the city coat of arms.<br><br> Legend holds that the bridge was built in memory of the unhappy love between Aisha, a Turkish (Muslim) girl, and Stojan, a Serbian (Christian) shepherd. The daughter of Selim Pasha, an Ottoman governor in Vranje, Aisha fell in love with Stojan, and one day, when they met by the river (deemed haram), Selim saw them. Selim then tried to kill Stojan but accidentally killed his own daughter while she protected Stojan with her body. Stojan then killed himself."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name" : "partizan",
+            "header": "Partizan",
+            "text": "A rebrand and jersey concept for the Belgrade footballing giants FK Partizan. Inspired by the <i>White City</i> and it's monuments, keeping it monochromating in the spirit of the club.",
+            "examples": [
+                {
+                    "id": 1, "isQuartet": true, 
+                    "header": "The Temple of Saint Sava",
+                    "text": "<i>The Temple of Saint Sava</i> is a Serbian Orthodox church which sits on the Vračar plateau in Belgrade, Serbia and it's the fourth biggest Orthodox church in the world. It was planned as the bishopric seat and main cathedral of the Serbian Orthodox Church. The church is dedicated to Saint Sava, the founder of the Serbian Orthodox Church and an important figure in medieval Serbia. It is built on the presumed location of St. Sava's grave. It's one of the greatest symbols of Belgrade and is also closelly associated with Partizan as it is close to it's stadium and is visible from the west stand."
+                }, 
+                {
+                    "id": 2, "isQuartet": true, 
+                    "header": "The Belgrade Fortress",
+                    "text": "<i>The Belgrade Fortress</i> consists of the old citadel (Upper and Lower Town) and Kalemegdan Park (Large and Little Kalemegdan) on the confluence of the Sava and Danube rivers, in an urban area of modern Belgrade, Serbia. Located in Belgrade's municipality of Stari Grad, the fortress costitutes the specific historical core of the city and is one of the most important representatives of Belgrade's cultural heritage."
+                },
+                {
+                    "id": 3, "isQuartet": true, 
+                    "header": "Raven",
+                    "text": "The common raven (Corvus corax), also known as the western raven or northern raven when discussing the raven at the subspecies level, is a large all-black passerine bird.Because of its black plumage, croaking call, and diet of carrion, the raven is often associated with loss and ill omen, in most cultures, the raven was and still is, considered as the bird of death, which is a fitting symbol for the club who's supporters call themselves <i>the Gravediggers</i> and pride themselves on their black colors and morbid and counterculture symbols."
+                },
+                {
+                    "id": 4, "isQuartet": true, 
+                    "header": "Pobednik",
+                    "text": "<i>Pobednik</i> or <i>'The Victor'</i> is a monument in the Upper Town of the Belgrade Fortress, built to commemorate Serbia's victory over the Ottoman and Austro-Hungarian empires during the Balkan Wars and the First World War. Cast in 1913, erected in 1928, and standing at 14 metres (46 ft) high, it is one of the most famous works of Ivan Meštrović. It is also one of the most visited tourist attractions in Belgrade and one of its most recognizable landmarks."
+                },
+                {
+                    "id": 5, "isQuartet": false, 
+                    "header": "Symbols of Belgrade",
+                    "text": "Belgrade, lit. <i>'White City'</i>, is the capital and largest city in Serbia. It is located at the confluence of the Sava and Danube rivers and the crossroads of the Pannonian Plain and the Balkan Peninsula. There are approximately one-thousand sports facilities in Belgrade, many of which are capable of serving all levels of sporting events. It is the home of nearly 1.7 million people and 43 professional and semi-professional football clubs. None of which symbolize this city of meeting differences like the meeting of black and white, the Belgrade Partizan."
+                },
+                {
+                    "id": 6, "isQuartet": false, 
+                    "header": "Return of retro colors",
+                    "text": "Emerging as a victor from the Second World War, the members of the Yugoslav People's Army founded a football club. The colorful 50s brought on the saturated blue-burgundy jerseys which would only later be substituted for the recognizable black and white, although the blue-burgundy jerseys remained in use as away colors, their use was discontinued in the 2008-09 season."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name" : "mavs",
+            "header": "Dallas Mavericks",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 8,
+            "name" : "srbija",
+            "header": "Tim Srbija",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 9,
+            "name" : "olympics",
+            "header": "Belgrade Olympics",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 10,
+            "name" : "juzna-srbija",
+            "header": "Južna Srbija",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 11,
+            "name" : "balkan",
+            "header": "Balkan",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        
+        }
+    ]
+}
